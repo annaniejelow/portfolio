@@ -11,7 +11,7 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 *  Bazy danych: MS SQL
 *  Systemy operacyjne: Windows
 *  Poznane metodologie zarządzania: Agile, SCRUM, Kanban
-*  Języki programowania i frameworki: Phyton - w tarakcie nauki
+*  Języki programowania i frameworki: Phyton - w trakcie nauki
 
 ## Umiejętności
 
@@ -19,6 +19,8 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 * Pisanie przypadków i scenariuszy testowych
 * Pisanie test planów
 * Zgłaszanie błędów
+* Pisanie raportów z testów
+* Tworzenie instrukcji dla użytkowników oprogramowania
 * Praca w zespole
 * Obsługa klienta
 
@@ -54,6 +56,9 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 
 ## Webinary
 
+* cantest.it "Angielski w globalnych zespołach IT"
+* 4_testers Festival "Jak są zbudowane web aplikacje?"
+* Testuj.pl "Warsztaty z testowania na żywo". 
   
 ## Projekty
 
