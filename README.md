@@ -56,13 +56,18 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 
 ## Webinary
 
-* Testuj.pl
+* Testuj.pl "Mój pierwszy test automatyczny w języku Python"
 * cantest.it "Angielski w globalnych zespołach IT"
 * 4_testers Festival "Jak są zbudowane web aplikacje?"
-* Testuj.pl "Warsztaty z testowania na żywo". 
+* Testuj.pl "Warsztaty z testowania na żywo"
   
 ## Projekty
 
-ble
+* Future Collars – bootcamp Tester oprogramowania – projekt grupowy w metodyce SCRUM - testy funkcjonalne aplikacji webowej platformy szkoleniowej Future Collars
+* Future Collars – bootcamp Tester oprogramowania – projekt indywidualny – testy funkcjonalne aplikacji webowej platformy ogłoszeniowej OLX
+* Centralny Ośrodek Informatyki – kurs Nowa Ty w IT –przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na       istniejący adres email na skrzynce pocztowej Gmail
+* Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem
+z punktu widzenia funkcjonowania sklepu
+
 
 
