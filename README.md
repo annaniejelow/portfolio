@@ -56,6 +56,7 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 
 ## Webinary
 
+* Testuj.pl
 * cantest.it "Angielski w globalnych zespołach IT"
 * 4_testers Festival "Jak są zbudowane web aplikacje?"
 * Testuj.pl "Warsztaty z testowania na żywo". 
