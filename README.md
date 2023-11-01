@@ -69,5 +69,8 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 * Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem
 z punktu widzenia funkcjonowania sklepu
 
+## Wydarzenia
 
+* opole.dev #3
+* Tester Summit 2023 (online)
 
