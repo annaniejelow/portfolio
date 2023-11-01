@@ -65,7 +65,7 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 
 * Future Collars – bootcamp Tester oprogramowania – projekt grupowy w metodyce SCRUM - testy funkcjonalne aplikacji webowej platformy szkoleniowej Future Collars
 * Future Collars – bootcamp Tester oprogramowania – projekt indywidualny – testy funkcjonalne aplikacji webowej platformy ogłoszeniowej OLX
-* Centralny Ośrodek Informatyki – kurs Nowa Ty w IT –przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na       istniejący adres email na skrzynce pocztowej Gmail
+* Centralny Ośrodek Informatyki – kurs Nowa Ty w IT – przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na       istniejący adres email na skrzynce pocztowej Gmail
 * Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem
 z punktu widzenia funkcjonowania sklepu
 
