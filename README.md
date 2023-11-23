@@ -71,6 +71,7 @@ z punktu widzenia funkcjonowania sklepu
 
 ## Wydarzenia
 
+* Women of IT Conference 2023 (online)
 * Women in IT Day - prelegentka podczas debaty "I did IT! Success in IT is my achieved goal!"
 * opole.dev #3
 * Tester Summit 2023 (online)
