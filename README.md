@@ -72,9 +72,10 @@ z punktu widzenia funkcjonowania sklepu
 ## Wydarzenia
 
 * 12.12.2023 - opole.dev #4
-* QA Summit 2023 (online)
-* Women of IT Conference 2023 (online)
+* 30.11.2023 - QA Summit 2023 (online)
+* 23.11.2023 -  Women of IT 2023 (online)
 * 15.11.2023  - Women in IT Day - prelegentka podczas debaty "I did IT! Success in IT is my achieved goal!"
-* opole.dev #3
-* Tester Summit 2023 (online)
+* 31.10.2023 - Tester Summit 2023 (online)
+* 24.10.2023 - opole.dev #3
+
 
