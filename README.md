@@ -56,6 +56,7 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 
 ## Webinary
 
+* Polska Fundacja Przedsiębiorczości "Chat GPT, Midjourney i narzędzia AI - praktyczny przewodnik”
 * Testuj.pl "Mój pierwszy test automatyczny w języku Python"
 * cantest.it "Angielski w globalnych zespołach IT"
 * 4_testers Festival "Jak są zbudowane web aplikacje?"
