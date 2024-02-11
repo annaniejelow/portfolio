@@ -29,7 +29,6 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 * 08.2023 – Polska Fundacja Przedsiębiorczości - SQL od podstaw
 * 05.2023 – Fundacja Polskiego Funduszu Rozwoju - Akademia Rozwoju
 * 04.2O23 – Centralny Ośrodek Informatyki - Nowa Ty w IT
-* 02.2023 – 06.2023 – Fundacja Mamo Pracuj/Akamai Foundation,Inc - Let's do IT AKAdemy 2 – Mentee
 * 12.2022 – 01.2023 - Eklektika Language Means Business - English for IT course
 * 11.2022 – 02.2023 – Future Collars - Tester Oprogramowania
 
@@ -78,4 +77,8 @@ z punktu widzenia funkcjonowania sklepu
 * 31.10.2023 - Tester Summit 2023 (online)
 * 24.10.2023 - opole.dev #3
 
+## Mentoring
 
+* 02.2024 -nadal  - Girls Code Fun "Code Her Future" - Mentorka
+* 12.2023-01.2024 - Girls Code Fun & Google "Dziewczyny rządzą w Pythonie" - Mentorka
+* 02.2023 – 06.2023 – Fundacja Mamo Pracuj/Akamai Foundation,Inc - Let's do IT AKAdemy 2 – Mentee
