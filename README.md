@@ -9,7 +9,7 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
 *  Narzędzia do zarządzania testowaniem: Jira, Xray, YouTrack, podstawy Postman
 *  Bazy danych: MS SQL
 *  Systemy operacyjne: Windows
-*  Poznane metodologie zarządzania: Agile, SCRUM, Kanban, Waterfall
+*  Poznane metodologie zarządzania: Agile, Scrum, Kanban, Waterfall
 *  Języki programowania i frameworki: Phyton - w trakcie nauki
 
 ## Umiejętności
