@@ -35,7 +35,7 @@ Jestem także mentorką w fundacji Girls Code Fun.
 
 ## Ceryfikaty
 
-* ISTQB FL
+* 2023 - ISTQB FL
 
 ## Książki
 
