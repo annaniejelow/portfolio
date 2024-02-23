@@ -3,13 +3,14 @@
 ## O mnie
 
 Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od ponad pół roku pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Miałam także okazję testować scaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+Jestem także mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
 
 *  Narzędzia do zarządzania testowaniem: Jira, Xray, YouTrack, podstawy Postman
 *  Bazy danych: MS SQL
 *  Systemy operacyjne: Windows
-*  Poznane metodologie zarządzania: Agile, Scrum, Kanban, Waterfall
+*  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
 *  Języki programowania i frameworki: Phyton - w trakcie nauki
 
 ## Umiejętności
@@ -62,7 +63,7 @@ Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 
   
 ## Projekty
 
-* Future Collars – bootcamp Tester oprogramowania – projekt grupowy w metodyce SCRUM - testy funkcjonalne aplikacji webowej platformy szkoleniowej Future Collars
+* Future Collars – bootcamp Tester oprogramowania – projekt grupowy w frameworku Scrum - testy funkcjonalne aplikacji webowej platformy szkoleniowej Future Collars
 * Future Collars – bootcamp Tester oprogramowania – projekt indywidualny – testy funkcjonalne aplikacji webowej platformy ogłoszeniowej OLX
 * Centralny Ośrodek Informatyki – kurs Nowa Ty w IT – przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na       istniejący adres email na skrzynce pocztowej Gmail
 * Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem
