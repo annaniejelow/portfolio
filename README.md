@@ -7,7 +7,7 @@ Jestem także mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
 
-*  Narzędzia do zarządzania testowaniem: Jira, Xray, YouTrack, podstawy Postman
+*  Narzędzia do zarządzania testowaniem: Jira, Xray, YouTrack, Trello, podstawy Postman
 *  Bazy danych: MS SQL
 *  Systemy operacyjne: Windows
 *  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
@@ -55,6 +55,7 @@ Jestem także mentorką w fundacji Girls Code Fun.
 
 ## Webinary
 
+* Polska Fundacja Przedsiębiorczości "Efektywne zarządzanie projektem przy użyciu narzędzia Trello"
 * Polska Fundacja Przedsiębiorczości "Chat GPT, Midjourney i narzędzia AI - praktyczny przewodnik”
 * Testuj.pl "Mój pierwszy test automatyczny w języku Python"
 * cantest.it "Angielski w globalnych zespołach IT"
@@ -82,5 +83,5 @@ z punktu widzenia funkcjonowania sklepu
 ## Mentoring
 
 * 02.2024 - nadal  - Girls Code Fun "Code Her Future" - Mentorka
-* 12.2023 - 01.2024 - Girls Code Fun & Google "Dziewczyny rządzą w Pythonie" - Mentorka
+* 12.2023 - nadal - Girls Code Fun & Google "Dziewczyny rządzą w Pythonie" - Mentorka
 * 02.2023 - 06.2023 – Fundacja Mamo Pracuj/Akamai Foundation,Inc - Let's do IT AKAdemy 2 – Mentee
