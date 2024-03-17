@@ -26,6 +26,7 @@ Jestem także mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 03.2024 - warsztat Me in IT od Girls Code Fun - Python od podstaw
 * 09.2023 - nadal - Polska Fundacja Przedsiębiorczości - Python - Podstawy 
 * 08.2023 – Polska Fundacja Przedsiębiorczości - SQL od podstaw
 * 05.2023 – Fundacja Polskiego Funduszu Rozwoju - Akademia Rozwoju
