@@ -56,7 +56,8 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Webinary
 
-* 4_testers „W 80 minut dookoła kodu”
+* Polska Fundacja Przedsiębiorczości "Wprowadzenie do AI w biznesie"
+* 4_testers "W 80 minut dookoła kodu"
 * Polska Fundacja Przedsiębiorczości "Efektywne zarządzanie projektem przy użyciu narzędzia Trello"
 * Polska Fundacja Przedsiębiorczości "Chat GPT, Midjourney i narzędzia AI - praktyczny przewodnik”
 * Testuj.pl "Mój pierwszy test automatyczny w języku Python"
