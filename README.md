@@ -2,7 +2,7 @@
 
 ## O mnie
 
-Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od roku pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Testuję także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od ponad roku pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Testuję także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
 Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
@@ -26,6 +26,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 07.2024 - Girls Code Fun - warsztaty SQL Pro & AI
 * 05.2024 - Girls Code Fun - SQL Coding Marathon - SQL level 2
 * 03.2024 - warsztat Me in IT od Girls Code Fun - Python od podstaw
 * 09.2023 - nadal - Polska Fundacja Przedsiębiorczości - Python - Podstawy 
@@ -68,11 +69,12 @@ Jestem również mentorką w fundacji Girls Code Fun.
   
 ## Projekty
 
-* Future Collars – bootcamp Tester oprogramowania – projekt grupowy w frameworku Scrum - testy funkcjonalne aplikacji webowej platformy szkoleniowej Future Collars
-* Future Collars – bootcamp Tester oprogramowania – projekt indywidualny – testy funkcjonalne aplikacji webowej platformy ogłoszeniowej OLX
-* Centralny Ośrodek Informatyki – kurs Nowa Ty w IT – przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na       istniejący adres email na skrzynce pocztowej Gmail
+* „10 dni testowania” - wyzwanie organizowane przez Rafał Podraza i Jakub Konicki - wykonanie 10 zdań związanych z testowaniem oprogramowania: testy eksploracyjne, pisanie przypadków testowych, zgłaszanie bugów, priorytetyzacja zadań, testowanie API, korzystanie z DevTools, tworzenie zapytań SQL, automatyzacja procesów.
 * Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem
 z punktu widzenia funkcjonowania sklepu
+* Centralny Ośrodek Informatyki – kurs Nowa Ty w IT – przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na       istniejący adres email na skrzynce pocztowej Gmail
+* Future Collars – bootcamp Tester oprogramowania – projekt grupowy w frameworku Scrum - testy funkcjonalne aplikacji webowej platformy szkoleniowej Future Collars
+* Future Collars – bootcamp Tester oprogramowania – projekt indywidualny – testy funkcjonalne aplikacji webowej platformy ogłoszeniowej OLX
 
 ## Wydarzenia
 
