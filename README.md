@@ -26,6 +26,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 08.2024 - Girls Code Fun - warsztaty Python Pro
 * 07.2024 - Girls Code Fun - warsztaty SQL Pro & AI
 * 05.2024 - Girls Code Fun - SQL Coding Marathon - SQL level 2
 * 03.2024 - warsztat Me in IT od Girls Code Fun - Python od podstaw
