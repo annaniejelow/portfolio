@@ -79,6 +79,7 @@ z punktu widzenia funkcjonowania sklepu
 
 ## Wydarzenia
 
+* 22.10.2024 - opole.dev #7
 * 28.05.2024 - opole.dev #6
 * 27.02.2024 - opole.dev #5
 * 12.12.2023 - opole.dev #4
