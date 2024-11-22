@@ -70,8 +70,8 @@ Jestem również mentorką w fundacji Girls Code Fun.
   
 ## Projekty
 
-* „Pieski” - testy strony Spoondog - projekt realizowany przez członków IT Juniors community
-* „10 dni testowania” - wyzwanie organizowane przez Rafał Podraza i Jakub Konicki - wykonanie 10 zdań związanych z testowaniem oprogramowania: testy eksploracyjne, pisanie przypadków testowych, zgłaszanie bugów, priorytetyzacja zadań, testowanie API, korzystanie z DevTools, tworzenie zapytań SQL, automatyzacja procesów.
+* "Pieski" - testy manualne strony Spoondog - projekt realizowany przez członków IT Juniors community
+* "10 dni testowania" - wyzwanie organizowane przez Rafał Podraza i Jakub Konicki - wykonanie 10 zdań związanych z testowaniem oprogramowania: testy eksploracyjne, pisanie przypadków testowych, zgłaszanie bugów, priorytetyzacja zadań, testowanie API, korzystanie z DevTools, tworzenie zapytań SQL, automatyzacja procesów.
 * Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem
 z punktu widzenia funkcjonowania sklepu
 * Centralny Ośrodek Informatyki – kurs Nowa Ty w IT – przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na istniejący adres email na skrzynce pocztowej Gmail
