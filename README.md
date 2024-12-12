@@ -26,6 +26,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 12.2024 - Bruxa - User flows
 * 08.2024 - Girls Code Fun - warsztaty Python Pro
 * 07.2024 - Girls Code Fun - warsztaty SQL Pro & AI
 * 05.2024 - Girls Code Fun - SQL Coding Marathon - SQL level 2
@@ -80,6 +81,7 @@ z punktu widzenia funkcjonowania sklepu
 
 ## Wydarzenia
 
+* 10.12.2024 - opole.dev #8
 * 07-08.11.2024 - TestWarez
 * 22.10.2024 - opole.dev #7
 * 28.05.2024 - opole.dev #6
