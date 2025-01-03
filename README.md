@@ -2,7 +2,7 @@
 
 ## O mnie
 
-Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od ponad roku pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Testuję także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od półtora roku pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Testuję także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
 Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
@@ -26,6 +26,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 12.2024 - Microsoft i Future Collars - Kurs w ramach programu “AI National Skills” powered by Microsoft - Biegłość w AI
 * 12.2024 - Bruxa - User flows
 * 08.2024 - Girls Code Fun - warsztaty Python Pro
 * 07.2024 - Girls Code Fun - warsztaty SQL Pro & AI
@@ -71,7 +72,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
   
 ## Projekty
 
-* "Pieski" - testy manualne strony Spoondog.eu - projekt realizowany przez członków IT Juniors community
+* "Pieski" - testy manualne strony https://www.spoondog.eu/ - projekt realizowany przez członków IT Juniors community
 * "10 dni testowania" - wyzwanie organizowane przez Rafał Podraza i Jakub Konicki - wykonanie 10 zdań związanych z testowaniem oprogramowania: testy eksploracyjne, pisanie przypadków testowych, zgłaszanie bugów, priorytetyzacja zadań, testowanie API, korzystanie z DevTools, tworzenie zapytań SQL, automatyzacja procesów.
 * Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem
 z punktu widzenia funkcjonowania sklepu
