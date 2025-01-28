@@ -2,7 +2,7 @@
 
 ## O mnie
 
-Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od półtora roku pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Testuję także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od ponad półtora roku pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Testuję także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
 Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
@@ -26,12 +26,13 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 01.2025 - Bruxa - Warsztat UX - Modele kontentowe
 * 12.2024 - Microsoft i Future Collars - Kurs w ramach programu “AI National Skills” powered by Microsoft - Biegłość w AI
 * 12.2024 - Bruxa - User flows
-* 08.2024 - Girls Code Fun - warsztaty Python Pro
-* 07.2024 - Girls Code Fun - warsztaty SQL Pro & AI
+* 08.2024 - Girls Code Fun - Warsztaty Python Pro
+* 07.2024 - Girls Code Fun - Warsztaty SQL Pro & AI
 * 05.2024 - Girls Code Fun - SQL Coding Marathon - SQL level 2
-* 03.2024 - warsztat Me in IT od Girls Code Fun - Python od podstaw
+* 03.2024 - Warsztat Me in IT od Girls Code Fun - Python od podstaw
 * 09.2023 - nadal - Polska Fundacja Przedsiębiorczości - Python - Podstawy 
 * 08.2023 – Polska Fundacja Przedsiębiorczości - SQL od podstaw
 * 05.2023 – Fundacja Polskiego Funduszu Rozwoju - Akademia Rozwoju
