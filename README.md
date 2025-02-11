@@ -83,6 +83,7 @@ z punktu widzenia funkcjonowania sklepu
 
 ## Wydarzenia
 
+* 21-30.01.2025 - BugHuntFest vol.2 (online)
 * 10.12.2024 - opole.dev #8
 * 07-08.11.2024 - TestWarez
 * 22.10.2024 - opole.dev #7
