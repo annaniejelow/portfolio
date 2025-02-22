@@ -62,6 +62,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Webinary
 
+* Polska Fundacja Przedsiębiorczości - "Understanding AI through English"
 * Polska Fundacja Przedsiębiorczości "Wprowadzenie do AI w biznesie"
 * 4_testers "W 80 minut dookoła kodu"
 * Polska Fundacja Przedsiębiorczości "Efektywne zarządzanie projektem przy użyciu narzędzia Trello"
@@ -73,16 +74,17 @@ Jestem również mentorką w fundacji Girls Code Fun.
   
 ## Projekty
 
-* "Pieski" - testy manualne strony https://www.spoondog.eu/ - projekt realizowany przez członków IT Juniors community
-* "10 dni testowania" - wyzwanie organizowane przez Rafał Podraza i Jakub Konicki - wykonanie 10 zdań związanych z testowaniem oprogramowania: testy eksploracyjne, pisanie przypadków testowych, zgłaszanie bugów, priorytetyzacja zadań, testowanie API, korzystanie z DevTools, tworzenie zapytań SQL, automatyzacja procesów.
+* "Pieski" - testy manualne strony https://www.spoondog.eu/ - projekt realizowany przez członków IT Juniors community. 
+* "10 dni testowania" - wyzwanie organizowane przez Rafał Podraza i Jakub Konicki - wykonanie 10 zdań związanych z testowaniem oprogramowania: testy eksploracyjne, pisanie przypadków testowych, zgłaszanie bugów, priorytetyzacja zadań, testowanie API, korzystanie z DevTools, tworzenie zapytań SQL, automatyzacja procesów. 
 * Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem
-z punktu widzenia funkcjonowania sklepu
-* Centralny Ośrodek Informatyki – kurs Nowa Ty w IT – przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na istniejący adres email na skrzynce pocztowej Gmail
-* Future Collars – bootcamp Tester oprogramowania – projekt grupowy w frameworku Scrum - testy funkcjonalne aplikacji webowej platformy szkoleniowej Future Collars
-* Future Collars – bootcamp Tester oprogramowania – projekt indywidualny – testy funkcjonalne aplikacji webowej platformy ogłoszeniowej OLX
+z punktu widzenia funkcjonowania sklepu.
+* Centralny Ośrodek Informatyki – kurs Nowa Ty w IT – przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na istniejący adres email na skrzynce pocztowej Gmail.
+* Future Collars – bootcamp Tester oprogramowania – projekt grupowy w frameworku Scrum - testy funkcjonalne aplikacji webowej platformy szkoleniowej Future Collars.
+* Future Collars – bootcamp Tester oprogramowania – projekt indywidualny – testy funkcjonalne aplikacji webowej platformy ogłoszeniowej OLX.
 
 ## Wydarzenia
 
+* 18.02.2025 - opole.dev #9
 * 21-30.01.2025 - BugHuntFest vol.2 (online)
 * 10.12.2024 - opole.dev #8
 * 07-08.11.2024 - TestWarez
