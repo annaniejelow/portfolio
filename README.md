@@ -11,7 +11,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 *  Bazy danych: MS SQL
 *  Systemy operacyjne: Windows
 *  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
-*  Języki programowania i frameworki: Phyton - w trakcie nauki
+*  Języki programowania i frameworki: Phyton - w trakcie nauki, Playwright - w trakcie nauki
 
 ## Umiejętności
 
@@ -26,6 +26,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 03.2025 - jaktestowac.pl - Praktyczne wprowadzenie do testów automatycznych z Playwright - w trakcie
 * 01.2025 - Bruxa - Warsztat UX - Modele kontentowe
 * 12.2024 - Microsoft i Future Collars - Kurs w ramach programu “AI National Skills” powered by Microsoft - Biegłość w AI
 * 12.2024 - Bruxa - User flows
@@ -33,7 +34,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 * 07.2024 - Girls Code Fun - Warsztaty SQL Pro & AI
 * 05.2024 - Girls Code Fun - SQL Coding Marathon - SQL level 2
 * 03.2024 - Warsztat Me in IT od Girls Code Fun - Python od podstaw
-* 09.2023 - nadal - Polska Fundacja Przedsiębiorczości - Python - Podstawy 
+* 09.2023 - Polska Fundacja Przedsiębiorczości - Python - Podstawy
 * 08.2023 – Polska Fundacja Przedsiębiorczości - SQL od podstaw
 * 05.2023 – Fundacja Polskiego Funduszu Rozwoju - Akademia Rozwoju
 * 04.2O23 – Centralny Ośrodek Informatyki - Nowa Ty w IT
