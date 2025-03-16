@@ -34,7 +34,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 * 07.2024 - Girls Code Fun - Warsztaty SQL Pro & AI
 * 05.2024 - Girls Code Fun - SQL Coding Marathon - SQL level 2
 * 03.2024 - Warsztat Me in IT od Girls Code Fun - Python od podstaw
-* 09.2023 - Polska Fundacja Przedsiębiorczości - Python - Podstawy
+* 09.2023 - Polska Fundacja Przedsiębiorczości - Python - Podstawy - w trakcie
 * 08.2023 – Polska Fundacja Przedsiębiorczości - SQL od podstaw
 * 05.2023 – Fundacja Polskiego Funduszu Rozwoju - Akademia Rozwoju
 * 04.2O23 – Centralny Ośrodek Informatyki - Nowa Ty w IT
