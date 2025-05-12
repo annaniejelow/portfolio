@@ -2,7 +2,7 @@
 
 ## O mnie
 
-Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od ponad półtora roku pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Testuję także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od prawie 2 lat pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Testuję także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
 Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
