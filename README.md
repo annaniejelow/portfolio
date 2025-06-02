@@ -63,6 +63,8 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Webinary
 
+* jaktestowac.pl "LEVEL UP! Architektura i AI w testach API z Playwright" 
+* jaktestowac.pl "Wybieramy narzędzia i automatyzujemy testy API od zera"
 * Magdalena Listwan "Cyfrowy świat bez barier - o testowaniu dostępności cyfrowej"
 * Polska Fundacja Przedsiębiorczości "Understanding AI through English"
 * Polska Fundacja Przedsiębiorczości "Wprowadzenie do AI w biznesie"
@@ -86,6 +88,8 @@ z punktu widzenia funkcjonowania sklepu.
 
 ## Wydarzenia
 
+* 24.05.2025 - test:fest
+* 20.05.2025 - opole.dev #10
 * 20.03.2025 - Women Techstyle Summit (online)
 * 18.02.2025 - opole.dev #9
 * 21-30.01.2025 - BugHuntFest vol.2 (online)
