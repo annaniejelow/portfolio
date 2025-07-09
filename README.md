@@ -2,8 +2,8 @@
 
 ## O mnie
 
-Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od prawie 2 lat pracuję jako tester manualny oprogranowania. Testuję programy webowe oraz desktopowe. Testuję także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
-Jestem również mentorką w fundacji Girls Code Fun.
+Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od ponad 2 lat pracuję jako tester manualny oprogranowania. Testuję programy webowe, desktopowe i aplikacje mobilne. Testowałam także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+Byłam mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
 
@@ -11,7 +11,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 *  Bazy danych: MS SQL
 *  Systemy operacyjne: Windows
 *  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
-*  Języki programowania i frameworki: Phyton - w trakcie nauki, Playwright - w trakcie nauki
+*  Języki programowania i frameworki: Phyton - podstawy, Playwright - w trakcie nauki
 
 ## Umiejętności
 
@@ -26,7 +26,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
-* 03.2025 - jaktestowac.pl - Praktyczne wprowadzenie do testów automatycznych z Playwright - w trakcie
+* 03.2025 - jaktestowac.pl - Praktyczne wprowadzenie do testów automatycznych z Playwright
 * 01.2025 - Bruxa - Warsztat UX - Modele kontentowe
 * 12.2024 - Microsoft i Future Collars - Kurs w ramach programu “AI National Skills” powered by Microsoft - Biegłość w AI
 * 12.2024 - Bruxa - User flows
@@ -34,7 +34,7 @@ Jestem również mentorką w fundacji Girls Code Fun.
 * 07.2024 - Girls Code Fun - Warsztaty SQL Pro & AI
 * 05.2024 - Girls Code Fun - SQL Coding Marathon - SQL level 2
 * 03.2024 - Warsztat Me in IT od Girls Code Fun - Python od podstaw
-* 09.2023 - Polska Fundacja Przedsiębiorczości - Python - Podstawy - w trakcie
+* 09.2023 - Polska Fundacja Przedsiębiorczości - Python - Podstawy
 * 08.2023 – Polska Fundacja Przedsiębiorczości - SQL od podstaw
 * 05.2023 – Fundacja Polskiego Funduszu Rozwoju - Akademia Rozwoju
 * 04.2O23 – Centralny Ośrodek Informatyki - Nowa Ty w IT
@@ -107,6 +107,7 @@ z punktu widzenia funkcjonowania sklepu.
 
 ## Mentoring
 
+* 06.2025 - nadal - Girls Code Fun & Google "Mentoring with Googlers" - Mentee
 * 02.2024 - 03.2024  - Girls Code Fun "Code Her Future" - Mentorka
 * 12.2023 - 03.2024 - Girls Code Fun & Google "Dziewczyny rządzą w Pythonie" - Mentorka
-* 02.2023 - 06.2023 – Fundacja Mamo Pracuj/Akamai Foundation,Inc - Let's do IT AKAdemy 2 – Mentee
+* 02.2023 - 06.2023 – Fundacja Mamo Pracuj & Akamai Foundation,Inc - "Let's do IT AKAdemy 2" – Mentee
