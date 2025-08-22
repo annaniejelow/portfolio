@@ -11,7 +11,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 *  Bazy danych: MS SQL
 *  Systemy operacyjne: Windows
 *  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
-*  Języki programowania i frameworki: Phyton - podstawy, Playwright - w trakcie nauki
+*  Języki programowania i frameworki: Phyton - podstawy, Playwright - podstawy
 
 ## Umiejętności
 
@@ -26,6 +26,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 08.2025 - Zachodniopomorska Szkoła Biznesu - Akademia Nauk Stosowanych na platformie Navoica - Wprowadzenie do testowania oprogramowania
 * 03.2025 - jaktestowac.pl - Praktyczne wprowadzenie do testów automatycznych z Playwright
 * 01.2025 - Bruxa - Warsztat UX - Modele kontentowe
 * 12.2024 - Microsoft i Future Collars - Kurs w ramach programu “AI National Skills” powered by Microsoft - Biegłość w AI
@@ -63,6 +64,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Webinary
 
+* jaktestowac.pl "Vibe Testing i MCP z Playwright i AI Agents"
 * jaktestowac.pl "LEVEL UP! Architektura i AI w testach API z Playwright" 
 * jaktestowac.pl "Wybieramy narzędzia i automatyzujemy testy API od zera"
 * Magdalena Listwan "Cyfrowy świat bez barier - o testowaniu dostępności cyfrowej"
