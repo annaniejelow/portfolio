@@ -112,7 +112,7 @@ z punktu widzenia funkcjonowania sklepu.
 
 ## Mentoring
 
-* 06.2025 - nadal - Girls Code Fun & Google "Mentoring with Googlers" - Mentee
-* 02.2024 - 03.2024  - Girls Code Fun "Code Her Future" - Mentorka
+* 06.2025 - 10.2025 - Girls Code Fun & Google "Mentoring with Googlers" - Mentee
+* 02.2024 - 03.2024 - Girls Code Fun "Code Her Future" - Mentorka
 * 12.2023 - 03.2024 - Girls Code Fun & Google "Dziewczyny rządzą w Pythonie" - Mentorka
 * 02.2023 - 06.2023 – Fundacja Mamo Pracuj & Akamai Foundation,Inc - "Let's do IT AKAdemy 2" – Mentee
