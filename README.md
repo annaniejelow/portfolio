@@ -91,6 +91,7 @@ z punktu widzenia funkcjonowania sklepu.
 
 ## Wydarzenia
 
+* 07.11.2025 - Meetup wKontenerach: AI & Cybersecurity.
 * 21.10.2025 - opole.dev #11
 * 16.09.2025 - Opole Meets AI
 * 24.05.2025 - test:fest
