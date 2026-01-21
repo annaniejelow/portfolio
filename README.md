@@ -2,7 +2,7 @@
 
 ## O mnie
 
-Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od ponad 2 lat pracuję jako tester manualny oprogramowania. Testuję programy webowe, desktopowe i aplikacje mobilne oraz rozwiązania oparte o AI (voicebot, chatbot). Testowałam także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od ponad 2 i pół roku pracuję jako tester manualny oprogramowania. Testuję programy webowe, desktopowe i aplikacje mobilne oraz rozwiązania oparte o AI (voicebot, chatbot). Testowałam także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
 Byłam mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
@@ -26,6 +26,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 01.2026 - nadal - jaktestowac.pl– AI_Testers 
 * 09.2025 - 10.2025 - Google & SGH - Umiejętności Jutra AI 2.0
 * 08.2025 - Zachodniopomorska Szkoła Biznesu - Akademia Nauk Stosowanych na platformie Navoica - Wprowadzenie do testowania oprogramowania
 * 03.2025 - jaktestowac.pl - Praktyczne wprowadzenie do testów automatycznych z Playwright
@@ -65,6 +66,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Webinary
 
+* Polska Fundacja Przedsiębiorczości „Twój osobisty asystent AI: jak ustawić ChatGPT?"
 * jaktestowac.pl "Vibe Testing i MCP z Playwright i AI Agents"
 * jaktestowac.pl "LEVEL UP! Architektura i AI w testach API z Playwright" 
 * jaktestowac.pl "Wybieramy narzędzia i automatyzujemy testy API od zera"
@@ -79,7 +81,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 * 4_testers Festival "Jak są zbudowane web aplikacje?"
 * Testuj.pl "Warsztaty z testowania na żywo"
   
-## Projekty
+## Projekty niekomercyjne
 
 * "Pieski" - testy manualne strony https://www.spoondog.eu/ - projekt realizowany przez członków IT Juniors community. 
 * "10 dni testowania" - wyzwanie organizowane przez Rafał Podraza i Jakub Konicki - wykonanie 10 zdań związanych z testowaniem oprogramowania: testy eksploracyjne, pisanie przypadków testowych, zgłaszanie bugów, priorytetyzacja zadań, testowanie API, korzystanie z DevTools, tworzenie zapytań SQL, automatyzacja procesów. 
@@ -91,6 +93,8 @@ z punktu widzenia funkcjonowania sklepu.
 
 ## Wydarzenia
 
+* 04.12.2025 - Eskadra Bielika - Warsztaty lokalne - Budowa agentów AI w oparciu o Bielik AI i ekosystem Google
+* 02.12.2025 - opole.dev #12
 * 07.11.2025 - Meetup wKontenerach: AI & Cybersecurity.
 * 21.10.2025 - opole.dev #11
 * 16.09.2025 - Opole Meets AI
