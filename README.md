@@ -52,20 +52,9 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 * Radosław Smiglin "Zawód Tester"
 
-## Blogi
-
-* www.testerzy.pl
-* www.wyszkolewas.com.pl
-
-## Grupy na Facebooku
-
-* Testowanie Oprogramowania
-* Dare IT Community
-* Testuj, Dziewczyno!
-* Testowanie Oprogramowania - Materiały/Porady
-
 ## Webinary
 
+* Polska Fundacja Przedsiębiorczości „Skuteczny UX writing: jak pisać teksty do interfejsów"
 * Polska Fundacja Przedsiębiorczości „Twój osobisty asystent AI: jak ustawić ChatGPT?"
 * jaktestowac.pl "Vibe Testing i MCP z Playwright i AI Agents"
 * jaktestowac.pl "LEVEL UP! Architektura i AI w testach API z Playwright" 
