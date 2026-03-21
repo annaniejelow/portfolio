@@ -7,7 +7,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
 
-*  Narzędzia do zarządzania testowaniem: Jira, Xray, YouTrack, Trello, podstawy Postman
+*  Narzędzia do zarządzania testowaniem: Jira, Xray, YouTrack, Trello, podstawy Postman, podstawy Swagger
 *  Bazy danych: MS SQL
 *  Systemy operacyjne: Windows
 *  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
@@ -20,13 +20,15 @@ Byłam mentorką w fundacji Girls Code Fun.
 * Pisanie test planów
 * Zgłaszanie błędów
 * Pisanie raportów z testów
+* Podstawy testowania API
 * Tworzenie instrukcji dla użytkowników oprogramowania
 * Praca w zespole
 * Obsługa klienta
 
 ## Kursy
 
-* 01.2026 - nadal - jaktestowac.pl– AI_Testers 
+* 03.2026 - jaktestowac.pl– Wprowadzenie do API i REST
+* 01.2026 - nadal - jaktestowac.pl – AI_Testers 
 * 09.2025 - 10.2025 - Google & SGH - Umiejętności Jutra AI 2.0
 * 08.2025 - Zachodniopomorska Szkoła Biznesu - Akademia Nauk Stosowanych na platformie Navoica - Wprowadzenie do testowania oprogramowania
 * 03.2025 - jaktestowac.pl - Praktyczne wprowadzenie do testów automatycznych z Playwright
