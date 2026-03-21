@@ -27,7 +27,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
-* 03.2026 - jaktestowac.pl– Wprowadzenie do API i REST
+* 03.2026 - jaktestowac.pl – Wprowadzenie do API i REST
 * 01.2026 - nadal - jaktestowac.pl – AI_Testers 
 * 09.2025 - 10.2025 - Google & SGH - Umiejętności Jutra AI 2.0
 * 08.2025 - Zachodniopomorska Szkoła Biznesu - Akademia Nauk Stosowanych na platformie Navoica - Wprowadzenie do testowania oprogramowania
