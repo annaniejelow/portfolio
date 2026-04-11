@@ -56,7 +56,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Webinary
 
-* Future Collars "Tester oprogramowania -przetestuj, czy się nadajesz" - współprowadząca
+* Future Collars "Tester oprogramowania - przetestuj, czy się nadajesz" - współprowadząca
 * Polska Fundacja Przedsiębiorczości „Skuteczny UX writing: jak pisać teksty do interfejsów"
 * Polska Fundacja Przedsiębiorczości „Twój osobisty asystent AI: jak ustawić ChatGPT?"
 * jaktestowac.pl "Vibe Testing i MCP z Playwright i AI Agents"
