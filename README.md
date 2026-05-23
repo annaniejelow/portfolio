@@ -22,6 +22,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 * Zgłaszanie błędów
 * Pisanie raportów z testów
 * Podstawy testowania API
+* Testowanie rozwiązań AI (chatbot, voicebot, voiceagent)
 * Tworzenie instrukcji dla użytkowników oprogramowania
 * Praca w zespole
 * Obsługa klienta
@@ -86,6 +87,7 @@ z punktu widzenia funkcjonowania sklepu.
 
 ## Wydarzenia
 
+* 18.05.2026 - opole.dev #14
 * 24.03.2026 - opole.dev #13
 * 04.12.2025 - Eskadra Bielika - Warsztaty lokalne - Budowa agentów AI w oparciu o Bielik AI i ekosystem Google
 * 02.12.2025 - opole.dev #12
