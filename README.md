@@ -87,6 +87,7 @@ z punktu widzenia funkcjonowania sklepu.
 
 ## Wydarzenia
 
+* 28.05.2026 - Autoamtyzacja testowania w praktyce (online)
 * 18.05.2026 - opole.dev #14
 * 24.03.2026 - opole.dev #13
 * 04.12.2025 - Eskadra Bielika - Warsztaty lokalne - Budowa agentów AI w oparciu o Bielik AI i ekosystem Google
