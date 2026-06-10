@@ -2,7 +2,7 @@
 
 ## O mnie
 
-Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od prawie 3 lat pracuję jako tester manualny oprogramowania. Testuję programy webowe, desktopowe i aplikacje mobilne oraz rozwiązania oparte o AI (voicebot, voiceagent, chatbot). Testowałam także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 3 lat pracuję jako tester manualny oprogramowania. Testuję programy webowe, desktopowe i aplikacje mobilne oraz rozwiązania oparte o AI (voicebot, voiceagent, chatbot). Testowałam także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
 Jestem jednym z administratorów grupy na LinkedIn 'IT Juniors community'.
 Byłam mentorką w fundacji Girls Code Fun.
 
