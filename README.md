@@ -8,7 +8,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
 
-*  Narzędzia do zarządzania testowaniem: Jira, Xray, YouTrack, Trello, podstawy Postman, podstawy Swagger
+*  Narzędzia do zarządzania testowaniem: Jira, Xray, YouTrack, Trello, Swagger, podstawy Postman
 *  Bazy danych: MS SQL
 *  Systemy operacyjne: Windows
 *  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
