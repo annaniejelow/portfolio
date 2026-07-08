@@ -2,8 +2,10 @@
 
 ## O mnie
 
-Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od 3 lat pracuję jako tester manualny oprogramowania. Testuję programy webowe, desktopowe i aplikacje mobilne oraz rozwiązania oparte o AI (voicebot, voiceagent, chatbot). Testowałam także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+Nazywam się Anna Niejełow i jestem certyfikowanym testerem oprogramowania. Od ponad 3 lat pracuję jako tester manualny oprogramowania. Testuję programy webowe, desktopowe i aplikacje mobilne oraz rozwiązania oparte o AI (voicebot, voiceagent, chatbot). Testowałam także skaner z systemem Android. Stale poszerzam swoją wiedzę i umiejętności testerskie.
+
 Jestem jednym z administratorów grupy na LinkedIn 'IT Juniors community'.
+
 Byłam mentorką w fundacji Girls Code Fun.
 
 ## Narzędzia
@@ -13,6 +15,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 *  Systemy operacyjne: Windows
 *  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
 *  Języki programowania i frameworki: Phyton - podstawy, Playwright - podstawy
+*  Visual Studio Code
 
 ## Umiejętności
 
@@ -29,6 +32,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 07.2026 - Ośrodek Przetwarzania Informacji – Państwowy Instytut Badawczy - Podstawy dostępności cyfrowej
 * 03.2026 - jaktestowac.pl – Wprowadzenie do API i REST
 * 01.2026 - nadal - jaktestowac.pl – AI_Testers 
 * 09.2025 - 10.2025 - Google & SGH - Umiejętności Jutra AI 2.0
@@ -79,8 +83,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 * "Pieski" - testy manualne strony https://www.spoondog.eu/ - projekt realizowany przez członków IT Juniors community. 
 * "10 dni testowania" - wyzwanie organizowane przez Rafał Podraza i Jakub Konicki - wykonanie 10 zdań związanych z testowaniem oprogramowania: testy eksploracyjne, pisanie przypadków testowych, zgłaszanie bugów, priorytetyzacja zadań, testowanie API, korzystanie z DevTools, tworzenie zapytań SQL, automatyzacja procesów. 
-* Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem
-z punktu widzenia funkcjonowania sklepu.
+* Testuj.pl/Mamo Pracuj – konkurs - przetestowanie sklepu internetowego skleptest.pl (zakładka Account) - wybór i zgłoszenie 5 błędów, które stanowią największy problem z punktu widzenia funkcjonowania sklepu.
 * Centralny Ośrodek Informatyki – kurs Nowa Ty w IT – przygotowanie przypadków testowych, pozwalających zrealizować testy rejestracji nowego adresu oraz logowania na istniejący adres email na skrzynce pocztowej Gmail.
 * Future Collars – bootcamp Tester oprogramowania – projekt grupowy w frameworku Scrum - testy funkcjonalne aplikacji webowej platformy szkoleniowej Future Collars.
 * Future Collars – bootcamp Tester oprogramowania – projekt indywidualny – testy funkcjonalne aplikacji webowej platformy ogłoszeniowej OLX.
