@@ -16,6 +16,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 *  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
 *  Języki programowania i frameworki: Phyton - podstawy, Playwright - podstawy
 *  Visual Studio Code
+*  podstawy DevTools
 
 ## Umiejętności
 
