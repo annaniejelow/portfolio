@@ -16,6 +16,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 *  Poznane podejścia do zarządzania projektami: Agile, Scrum, Kanban, Waterfall
 *  Języki programowania i frameworki: Phyton - podstawy, Playwright - podstawy
 *  Visual Studio Code
+*  ElevenLabs
 *  podstawy DevTools
 
 ## Umiejętności
@@ -27,6 +28,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 * Pisanie raportów z testów
 * Podstawy testowania API
 * Testowanie rozwiązań AI (chatbot, voicebot, voiceagent)
+* Prompt Engieering
 * Tworzenie instrukcji dla użytkowników oprogramowania
 * Praca w zespole
 * Obsługa klienta
