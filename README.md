@@ -65,6 +65,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Webinary
 
+* dlaTesterow.PL "Zapomnij o Pass/Fail. Dlaczego klasyczne testowanie nie działa w świecie AI?"
 * Future Collars "Tester oprogramowania - przetestuj, czy się nadajesz" - współprowadząca
 * Polska Fundacja Przedsiębiorczości „Skuteczny UX writing: jak pisać teksty do interfejsów"
 * Polska Fundacja Przedsiębiorczości „Twój osobisty asystent AI: jak ustawić ChatGPT?"
