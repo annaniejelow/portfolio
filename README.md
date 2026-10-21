@@ -94,6 +94,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Wydarzenia
 
+* 20.10.2026 - opole.dev #15
 * 22.09.2026 - Opole Meets AI 2
 * 28.05.2026 - Automatyzacja testowania w praktyce (online)
 * 18.05.2026 - opole.dev #14
