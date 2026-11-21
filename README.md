@@ -21,7 +21,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Umiejętności
 
-* Manualne testwanie oprogramowania
+* Manualne testowanie oprogramowania
 * Pisanie przypadków i scenariuszy testowych
 * Pisanie test planów
 * Zgłaszanie błędów
@@ -35,6 +35,7 @@ Byłam mentorką w fundacji Girls Code Fun.
 
 ## Kursy
 
+* 11.2026 - dlaTesterów.pl - Ewaluacja i testowanie systemów AI
 * 07.2026 - Ośrodek Przetwarzania Informacji – Państwowy Instytut Badawczy - Podstawy dostępności cyfrowej
 * 03.2026 - jaktestowac.pl – Wprowadzenie do API i REST
 * 01.2026 - 07.2026 - jaktestowac.pl – AI_Testers 
